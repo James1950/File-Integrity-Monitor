@@ -22,7 +22,7 @@ You can collect a new baseline for your directory and be notified whenever a cha
 <b> My baseline I created looks like this:
 <b><img width="959" alt="Screenshot 2024-06-20 134351" src="https://github.com/James1950/File-Integrity-Monitor/assets/112421154/151d53a3-6b19-4d35-b399-0b75f6ae8ba1"></b>
 <br />
-<b> It has the file path on the left and the SHA256 hash value on the right.</b>
+<b> It has the file path on the left and the SHA512 hash value on the right.</b>
 <br />
 <br />
 <br />
