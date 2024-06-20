@@ -1,6 +1,6 @@
 <h1>File-Integrity-Monitor</h1>
 <h2>Description</h2>
-<b>I created a File Integrity Monitor or (FIM) that looks at files in a directory and lets the user know if any modifications to the directory are made.
+<b>I created a File Integrity Monitor or (FIM) using powershell that looks at files in a directory and lets the user know if any modifications to the directory are made.
 The code uses a baseline to see whether changes to the directory have been made.
 You can collect a new baseline for your directory and be notified whenever a change occurs.
 </b>
